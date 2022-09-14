@@ -1,0 +1,1 @@
+{'Chicken Chop': 20, 'Nasi Lemak': 17, 'Nasi Goreng': 15, 'Roti Canai': 15, 'Kambing Golek': 7, 'Nasi USA': 6.5, 'Lamb Shank': 50, 'Sate': 1.2, 'Nasi Penyet': 18, 'Tomyam Campur': 13, 'sdfasdf': 'sadfsdf'}
