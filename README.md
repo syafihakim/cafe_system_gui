@@ -6,7 +6,7 @@ How to run:
 2. Run main.py
 
 Classes :
-main.py -> main window, linking all other windows
-WindowAddNewFood.py -> Window for users to modify foods.json by adding food
-WindowRemoveFood.py -> Window for users to modify foods.json by removing food
-WindowMenuSelect.py -> Window for users to calculate total price for specific customer
+1. main.py -> main window, linking all other windows
+2. WindowAddNewFood.py -> Window for users to modify foods.json by adding food
+3. WindowRemoveFood.py -> Window for users to modify foods.json by removing food
+4. WindowMenuSelect.py -> Window for users to calculate total price for specific customer
